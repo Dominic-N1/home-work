@@ -17,6 +17,9 @@ function MainNavigation() {
           <li>
             <Link to='/favorites'>My Favorites</Link>
           </li>
+          <li>
+            <Link to='/search'>Search</Link>
+          </li>
         </ul>
       </nav>
     </header>
